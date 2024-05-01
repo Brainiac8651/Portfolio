@@ -3,7 +3,7 @@ import "./NavBarStyles.css"
 
 import React from 'react'
 import { Link } from "react-router-dom"
-import react, {useState} from "react"
+import {useState} from "react"
 import {FaBars, FaTimes} from "react-icons/fa"
 
 const Navbar = () => {
